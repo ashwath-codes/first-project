@@ -3,4 +3,4 @@ b=2
 c=a+b
 print(c)
 print(c,c)
-d=3
+d=
